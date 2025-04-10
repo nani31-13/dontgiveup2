@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/dontgiveup2/static/css/main.f855e6bc.css",
-    "main.js": "/dontgiveup2/static/js/main.a3eb74a6.js",
+    "main.css": "/dontgiveup2/static/css/main.95ebba4f.css",
+    "main.js": "/dontgiveup2/static/js/main.3e17f218.js",
     "static/js/453.3f86146c.chunk.js": "/dontgiveup2/static/js/453.3f86146c.chunk.js",
-    "static/media/logo.svg": "/dontgiveup2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/dontgiveup2/index.html",
-    "main.f855e6bc.css.map": "/dontgiveup2/static/css/main.f855e6bc.css.map",
-    "main.a3eb74a6.js.map": "/dontgiveup2/static/js/main.a3eb74a6.js.map",
+    "main.95ebba4f.css.map": "/dontgiveup2/static/css/main.95ebba4f.css.map",
+    "main.3e17f218.js.map": "/dontgiveup2/static/js/main.3e17f218.js.map",
     "453.3f86146c.chunk.js.map": "/dontgiveup2/static/js/453.3f86146c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a3eb74a6.js"
+    "static/css/main.95ebba4f.css",
+    "static/js/main.3e17f218.js"
   ]
 }
