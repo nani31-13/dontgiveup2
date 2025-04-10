@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dontgiveup2/static/css/main.95ebba4f.css",
-    "main.js": "/dontgiveup2/static/js/main.3e17f218.js",
+    "main.js": "/dontgiveup2/static/js/main.7eab7d07.js",
     "static/js/453.3f86146c.chunk.js": "/dontgiveup2/static/js/453.3f86146c.chunk.js",
     "index.html": "/dontgiveup2/index.html",
     "main.95ebba4f.css.map": "/dontgiveup2/static/css/main.95ebba4f.css.map",
-    "main.3e17f218.js.map": "/dontgiveup2/static/js/main.3e17f218.js.map",
+    "main.7eab7d07.js.map": "/dontgiveup2/static/js/main.7eab7d07.js.map",
     "453.3f86146c.chunk.js.map": "/dontgiveup2/static/js/453.3f86146c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95ebba4f.css",
-    "static/js/main.3e17f218.js"
+    "static/js/main.7eab7d07.js"
   ]
 }
