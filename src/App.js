@@ -46,7 +46,7 @@ function App() {
 				) : (
 					<div id="audioDiv">
 						<audio id="audio" controls controlsList="nodownload" onPlay={handleAudioPlay}>
-							<source src="/ad.mp3" type="audio/mpeg" />
+							<source src={`${process.env.PUBLIC_URL}/ad.mp3`} type="audio/mpeg" />
 						</audio>
 					</div>
 				)}
